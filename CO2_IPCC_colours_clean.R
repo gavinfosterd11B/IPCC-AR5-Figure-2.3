@@ -1,7 +1,7 @@
 #GF 11/11/2020
 #Code for Figure 2.3
 
-setwd("c:/users/glf1u08/Desktop/RScript/CO2 IPCC")
+setwd("")
 
 #Data input
 #gas
